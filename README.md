@@ -15,8 +15,7 @@ PokemonGallery is a simple web application for exploring your favorite Pokemon. 
 - TailwindCss
 - React Hook Form
 - Axios
-- json-server
-
+- API
 
 ## Getting Started
 
