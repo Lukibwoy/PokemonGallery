@@ -27,8 +27,8 @@ PokemonGallery is a simple web application for exploring your favorite Pokemon. 
 - npm start
 
 ## Screenshots
-![obraz](https://github.com/Lukibwoy/PokemonGallery/assets/86016888/c92aee3c-19e3-49b8-bc5b-7b4bd1e4120e)
 ![obraz](https://github.com/Lukibwoy/PokemonGallery/assets/86016888/e25899e6-ce92-4109-af0f-c01aec8f8201)
+![obraz](https://github.com/Lukibwoy/PokemonGallery/assets/86016888/c92aee3c-19e3-49b8-bc5b-7b4bd1e4120e)
 
 
 
