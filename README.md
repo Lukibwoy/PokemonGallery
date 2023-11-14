@@ -1,5 +1,7 @@
 # PokemonGallery
 
+DORZUCIĆ SCREEN I ANIMACJĘ KARTY
+
 PokemonGallery is a simple web application for exploring your favorite Pokemon. It helps you discover various Pokemon, their types, and details.
 
 ## Features
