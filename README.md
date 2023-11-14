@@ -20,9 +20,8 @@ PokemonGallery is a simple web application for exploring your favorite Pokemon. 
 ## Getting Started
 
 - git clone https://github.com/Lukibwoy/PokemonGallery
-- cd PokemonApp
+- cd Pokemon
 - npm install
-- json-server --watch db.json --port 3020
 - npm start
 
 ## Screenshots
